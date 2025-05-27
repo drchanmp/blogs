@@ -1,10 +1,10 @@
 ---
-title: "Blog of Mcmpacme,Inc"
+title: "About of Mcmpacme,Inc"
 seoTitle: "Mcmpacme.Inc"
 seoDescription: "About the Main-Foundation of non-profit organizations."
 datePublished: Tue May 27 2025 09:54:57 GMT+0000 (Coordinated Universal Time)
 cuid: cmb6cbc71000g09jof21q9ukc
-slug: blog
+slug: about
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748339687200/ca8ae40e-1bef-4c6d-ad80-6005b1bc51a4.png
 
 ---
